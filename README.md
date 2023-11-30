@@ -1,2 +1,2 @@
-Basis Server
+Basic Server
 ==============
